@@ -81,7 +81,7 @@ const NewPage = ({ params }) => {
             className='bg-blue-500 hover:bg-blue-800 text-white font-bold py-2 px-4 rounded'
             type='submit'
           >
-            Editar
+            Actualizar
           </button>
         ) : (
           <button
